@@ -1,5 +1,5 @@
 # Watching-Eyes
-### [Eyes that follow your mouse!](https://github.com/MorganMaltba/Watching-Eyes)
+### Eyes that follow your mouse!
 
 **Description:** <br>
 This project runs JavaScript to track mouse movements to make eyeball shaped div elements 'watch' the mouse.
